@@ -1,0 +1,4 @@
+server/node_modules
+
+app/meituan/.idea
+app/meituan/.gradle

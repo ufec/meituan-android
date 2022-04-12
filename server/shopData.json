@@ -1,0 +1,868 @@
+[
+  [
+    {
+      "name": "三黑元气饭",
+      "month_sales": "月售1030",
+      "price": 3,
+      "picture": "http://p0.meituan.net/xianfu/d5ac8f2f656b8836c44979237f83c0bf715564.png",
+      "recommend_reason": "门店销量第1名",
+      "like_ratio_desc": "好评度94%",
+      "unit": "1碗",
+      "spu_dna_value": "大米、黑米、玉米、燕麦、花生",
+      "product_label": ""
+    },
+    {
+      "name": "农家小炒肉【单人份|不配饭】",
+      "month_sales": "月售797",
+      "price": 14,
+      "picture": "http://p0.meituan.net/xianfu/070c8783164cfa0e841b501a89cc83de709439.jpg",
+      "recommend_reason": "门店销量第2名",
+      "like_ratio_desc": "好评度90%",
+      "unit": "1碗",
+      "spu_dna_value": "中辣",
+      "product_label": ""
+    },
+    {
+      "name": "西红柿炒鸡蛋【单人份|不配饭】",
+      "month_sales": "月售787",
+      "price": 9,
+      "picture": "http://p0.meituan.net/xianfu/757e43b966b59796d3eabcaba2eac8c3759958.jpg",
+      "recommend_reason": "门店销量第3名",
+      "like_ratio_desc": "好评度91%",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "农家蒸蛋【单人份|不配饭】",
+      "month_sales": "月售661",
+      "price": 8,
+      "picture": "http://p0.meituan.net/xianfu/56075c5b7b695c80b0f558a3de845923951473.jpg",
+      "recommend_reason": "“味道好,经常点他家的菜”",
+      "like_ratio_desc": "好评度82%",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "家常土豆片【单人份|不配饭】",
+      "month_sales": "月售658",
+      "price": 7,
+      "picture": "http://p0.meituan.net/xianfu/5189e155b498806fecb56456292bac27369502.jpg",
+      "recommend_reason": "“味道不错,价格也还实惠”",
+      "like_ratio_desc": "好评度86%",
+      "unit": "1碗",
+      "spu_dna_value": "微辣",
+      "product_label": ""
+    },
+    {
+      "name": "肥西老母鸡汤【单人份|不配饭】",
+      "month_sales": "月售545",
+      "price": 16,
+      "picture": "http://p0.meituan.net/xianfu/0903ac98964166189beeb6bdfa8dcada516911.jpg",
+      "recommend_reason": "“干净好吃,这一次运气很好”",
+      "like_ratio_desc": "好评度100%",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "青椒香干肉丝【单人份|不配饭】",
+      "month_sales": "月售538",
+      "price": 12,
+      "picture": "http://p0.meituan.net/xianfu/fb03218076d399fd258972825d3b6eee837993.jpg",
+      "recommend_reason": "“口味很不错,可以放心冲”",
+      "like_ratio_desc": "好评度86%",
+      "unit": "1碗",
+      "spu_dna_value": "微辣",
+      "product_label": ""
+    },
+    {
+      "name": "葱油菜苔【单人份|不配饭】",
+      "month_sales": "月售459",
+      "price": 8,
+      "picture": "http://p0.meituan.net/xianfu/3d23987e34e1a44cee48aae95317c066748306.jpg",
+      "recommend_reason": "“葱油菜苔很香,都很下饭”",
+      "like_ratio_desc": "好评度100%",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "卤鸡腿",
+      "month_sales": "月售435",
+      "price": 6,
+      "picture": "http://p0.meituan.net/xianfu/b0d98cbe993fd83e1d47cb3c5ccf6fb2180578.jpg",
+      "recommend_reason": "“味道好,经常点他家的菜”",
+      "like_ratio_desc": "好评度95%",
+      "unit": "1个",
+      "spu_dna_value": "",
+      "product_label": ""
+    },
+    {
+      "name": "金汤酸菜鱼【单人份|不配饭】",
+      "month_sales": "月售415",
+      "price": 17,
+      "picture": "http://p0.meituan.net/xianfu/ea17a09d1c332d4a8130b9eebc780e96331672.jpg",
+      "recommend_reason": "“包装也很好,五星推荐”",
+      "like_ratio_desc": "好评度85%",
+      "unit": "1碗",
+      "spu_dna_value": "酸辣",
+      "product_label": ""
+    }
+  ],
+  [
+    {
+      "name": "肥西老母鸡汤【单人份|不配饭】",
+      "month_sales": "月售545",
+      "price": 16,
+      "picture": "http://p0.meituan.net/xianfu/0903ac98964166189beeb6bdfa8dcada516911.jpg",
+      "recommend_reason": "“干净好吃,这一次运气很好”",
+      "like_ratio_desc": "好评度100%",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "菌皇现炖土鸡【单人份|不配饭】",
+      "month_sales": "月售65",
+      "price": 19,
+      "picture": "http://p0.meituan.net/xianfu/808e58886792871bd0e56d13933ba79b284634.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": "http://p0.meituan.net/aichequan/b17d7c7c981f57c8c391b6ef106ada712692.png"
+    }
+  ],
+  [
+    {
+      "name": "老乡炒土鸡【单人份|不配饭】",
+      "month_sales": "月售194",
+      "price": 18,
+      "picture": "http://p0.meituan.net/xianfu/f12dc9bb602fa249e54beab282e6c69f449635.jpg",
+      "recommend_reason": "“味道好,经常点他家的菜”",
+      "like_ratio_desc": "好评度85%",
+      "unit": "1碗",
+      "spu_dna_value": "中辣",
+      "product_label": ""
+    },
+    {
+      "name": "葱油鸡【单人份|不配饭】",
+      "month_sales": "月售290",
+      "price": 18,
+      "picture": "http://p1.meituan.net/xianfu/6ab1cf5b6b80a33db55da60dd489b333736097.jpg",
+      "recommend_reason": "“口味好,每次必点份葱油鸡”",
+      "like_ratio_desc": "好评度90%",
+      "unit": "1碗",
+      "spu_dna_value": "葱香",
+      "product_label": "http://p0.meituan.net/aichequan/b17d7c7c981f57c8c391b6ef106ada712692.png"
+    },
+    {
+      "name": "香菇滑鸡【单人份|不配饭】",
+      "month_sales": "月售120",
+      "price": 16,
+      "picture": "http://p0.meituan.net/xianfu/457a24dcd5877a349101f13c1e0f9e92309127.jpg",
+      "recommend_reason": "“味道好,干净卫生”",
+      "like_ratio_desc": "",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": "http://p0.meituan.net/aichequan/b17d7c7c981f57c8c391b6ef106ada712692.png"
+    }
+  ],
+  [
+    {
+      "name": "鸡汁辣鱼【单人份|不配饭】",
+      "month_sales": "月售100",
+      "price": 14,
+      "picture": "http://p0.meituan.net/xianfu/84138544db622c7bd8ff9eb1b502a617701826.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1碗",
+      "spu_dna_value": "香辣",
+      "product_label": "http://p0.meituan.net/aichequan/406242bee5e2726bf31626120f2bff0f2660.png"
+    },
+    {
+      "name": "毛豆烧土鸡【单人份|不配饭】",
+      "month_sales": "月售157",
+      "price": 18,
+      "picture": "http://p0.meituan.net/xianfu/d1dda905172b8eea0baada1f4de13a2e700718.png",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1碗",
+      "spu_dna_value": "微辣",
+      "product_label": ""
+    }
+  ],
+  [
+    {
+      "name": "农家蒸蛋【单人份|不配饭】",
+      "month_sales": "月售661",
+      "price": 8,
+      "picture": "http://p0.meituan.net/xianfu/56075c5b7b695c80b0f558a3de845923951473.jpg",
+      "recommend_reason": "“味道好,经常点他家的菜”",
+      "like_ratio_desc": "好评度82%",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "香肠蒸豆米【单人份|不配饭】",
+      "month_sales": "月售179",
+      "price": 14,
+      "picture": "http://p1.meituan.net/xianfu/243fe8b613adc6349319967e57dd445c671393.jpg",
+      "recommend_reason": "“好吃,连吃三天”",
+      "like_ratio_desc": "好评度88%",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "梅菜扣肉【单人份|不配饭】",
+      "month_sales": "月售303",
+      "price": 17,
+      "picture": "http://p0.meituan.net/xianfu/b5c65df09dd8c6b64b65c89a95c5d99c678420.jpg",
+      "recommend_reason": "“不错吧,多次购买了”",
+      "like_ratio_desc": "好评度83%",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "粉蒸肉【单人份|不配饭】",
+      "month_sales": "月售82",
+      "price": 16,
+      "picture": "http://p1.meituan.net/xianfu/12bbb0a8e9da38a9e7f407e1471c626d385739.png",
+      "recommend_reason": "“粉蒸肉和青菜都不错,好评”",
+      "like_ratio_desc": "",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "油豆腐红烧肉【单人份|不配饭】",
+      "month_sales": "月售169",
+      "price": 16,
+      "picture": "http://p0.meituan.net/xianfu/95d878fbcc6ea275d154a0383ca009d5310815.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "好评度83%",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "酱蒸豆腐【单人份|不配饭】",
+      "month_sales": "月售201",
+      "price": 8,
+      "picture": "http://p0.meituan.net/xianfu/37b2d51ad3fc72c93bd1f99c1cda78ae419250.png",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1碗",
+      "spu_dna_value": "微辣",
+      "product_label": ""
+    },
+    {
+      "name": "剁椒鱼头【单人份|不配饭】",
+      "month_sales": "月售135",
+      "price": 16,
+      "picture": "http://p0.meituan.net/xianfu/a8867cb3198f8fca136517a7869dc3b8716679.jpg",
+      "recommend_reason": "“很好吃鱼头下饭”",
+      "like_ratio_desc": "好评度100%",
+      "unit": "1碗",
+      "spu_dna_value": "双椒味",
+      "product_label": ""
+    },
+    {
+      "name": "三色虾仁【单人份|不配饭】",
+      "month_sales": "月售239",
+      "price": 14,
+      "picture": "http://p1.meituan.net/xianfu/9b1e2599e7c24e82e8331dabf3de8714356902.jpg",
+      "recommend_reason": "“味道好,干净又卫生”",
+      "like_ratio_desc": "好评度100%",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "金汤酸菜鱼【单人份|不配饭】",
+      "month_sales": "月售415",
+      "price": 17,
+      "picture": "http://p0.meituan.net/xianfu/ea17a09d1c332d4a8130b9eebc780e96331672.jpg",
+      "recommend_reason": "“包装也很好,五星推荐”",
+      "like_ratio_desc": "好评度85%",
+      "unit": "1碗",
+      "spu_dna_value": "酸辣",
+      "product_label": ""
+    },
+    {
+      "name": "麻辣鸡块【单人份|不配饭】",
+      "month_sales": "月售149",
+      "price": 10,
+      "picture": "http://p1.meituan.net/xianfu/155d2e20ba47ab99e1b3850c94190698749087.jpg",
+      "recommend_reason": "“味道赞,下次再来”",
+      "like_ratio_desc": "好评度80%",
+      "unit": "1碗",
+      "spu_dna_value": "重辣",
+      "product_label": ""
+    }
+  ],
+  [
+    {
+      "name": "家常土豆片【单人份|不配饭】",
+      "month_sales": "月售658",
+      "price": 7,
+      "picture": "http://p0.meituan.net/xianfu/5189e155b498806fecb56456292bac27369502.jpg",
+      "recommend_reason": "“味道不错,价格也还实惠”",
+      "like_ratio_desc": "好评度86%",
+      "unit": "1碗",
+      "spu_dna_value": "微辣",
+      "product_label": ""
+    },
+    {
+      "name": "农家小炒肉【单人份|不配饭】",
+      "month_sales": "月售797",
+      "price": 14,
+      "picture": "http://p0.meituan.net/xianfu/070c8783164cfa0e841b501a89cc83de709439.jpg",
+      "recommend_reason": "门店销量第2名",
+      "like_ratio_desc": "好评度90%",
+      "unit": "1碗",
+      "spu_dna_value": "中辣",
+      "product_label": ""
+    },
+    {
+      "name": "胡萝卜炒肉片【单人份|不配饭】",
+      "month_sales": "月售233",
+      "price": 12,
+      "picture": "http://p0.meituan.net/xianfu/7981e41d056fab2b894e76ad91751662331394.jpg",
+      "recommend_reason": "“吃的很满意,五分”",
+      "like_ratio_desc": "好评度90%",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "西红柿炒鸡蛋【单人份|不配饭】",
+      "month_sales": "月售787",
+      "price": 9,
+      "picture": "http://p0.meituan.net/xianfu/757e43b966b59796d3eabcaba2eac8c3759958.jpg",
+      "recommend_reason": "门店销量第3名",
+      "like_ratio_desc": "好评度91%",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "四味鲜菌【单人份|不配饭】",
+      "month_sales": "月售221",
+      "price": 12,
+      "picture": "http://p0.meituan.net/xianfu/cc55ee8f779ec8255eb96c760e659420286320.jpg",
+      "recommend_reason": "“店里吃的很好吃”",
+      "like_ratio_desc": "好评度93%",
+      "unit": "1碗",
+      "spu_dna_value": "微辣",
+      "product_label": ""
+    },
+    {
+      "name": "青椒香干肉丝【单人份|不配饭】",
+      "month_sales": "月售538",
+      "price": 12,
+      "picture": "http://p0.meituan.net/xianfu/fb03218076d399fd258972825d3b6eee837993.jpg",
+      "recommend_reason": "“口味很不错,可以放心冲”",
+      "like_ratio_desc": "好评度86%",
+      "unit": "1碗",
+      "spu_dna_value": "微辣",
+      "product_label": ""
+    },
+    {
+      "name": "小炒黄牛肉【单人份|不配饭】",
+      "month_sales": "月售160",
+      "price": 19,
+      "picture": "http://p0.meituan.net/xianfu/30ed2f7b2e604606234a4ce258593275411529.jpg",
+      "recommend_reason": "“第一次吃,味道太上头”",
+      "like_ratio_desc": "好评度100%",
+      "unit": "1碗",
+      "spu_dna_value": "中辣",
+      "product_label": ""
+    }
+  ],
+  [
+    {
+      "name": "葱油菜苔【单人份|不配饭】",
+      "month_sales": "月售459",
+      "price": 8,
+      "picture": "http://p0.meituan.net/xianfu/3d23987e34e1a44cee48aae95317c066748306.jpg",
+      "recommend_reason": "“葱油菜苔很香,都很下饭”",
+      "like_ratio_desc": "好评度100%",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "青椒炒豆芽【单人份|不配饭】",
+      "month_sales": "月售328",
+      "price": 8,
+      "picture": "http://p0.meituan.net/xianfu/b0bc736e54b8dec9403ec1b13314939f521170.png",
+      "recommend_reason": "“炒豆芽也不错,包装也很好”",
+      "like_ratio_desc": "好评度88%",
+      "unit": "1碗",
+      "spu_dna_value": "微辣",
+      "product_label": ""
+    },
+    {
+      "name": "鸡汁娃娃菜【单人份|不配饭】",
+      "month_sales": "月售150",
+      "price": 10,
+      "picture": "http://p1.meituan.net/xianfu/95fac3458639da15009b318a2972ce2e56625.jpg",
+      "recommend_reason": "“肉分量很足,娃娃菜嫩”",
+      "like_ratio_desc": "好评度100%",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    }
+  ],
+  [
+    {
+      "name": "小炒肉实惠套餐",
+      "month_sales": "月售105",
+      "price": 24,
+      "picture": "http://p0.meituan.net/xianfu/0b266912dc291f5dc1176d029e2e0ced257986.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1人份",
+      "spu_dna_value": "香辣",
+      "product_label": ""
+    },
+    {
+      "name": "农家小炒肉套餐",
+      "month_sales": "月售41",
+      "price": 32,
+      "picture": "http://p0.meituan.net/xianfu/26df52023d6b51fb61dc04b81bcfc344100445.jpg",
+      "recommend_reason": "“包装干净,味道不错”",
+      "like_ratio_desc": "",
+      "unit": "1人份",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "小炒肉鸡汤套餐",
+      "month_sales": "月售37",
+      "price": 40,
+      "picture": "http://p0.meituan.net/xianfu/59fa6e2dc3f63f9c623de658c7feae90265914.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1人份",
+      "spu_dna_value": "香辣",
+      "product_label": ""
+    },
+    {
+      "name": "招牌鸡汤套餐",
+      "month_sales": "月售18",
+      "price": 43,
+      "picture": "http://p1.meituan.net/xianfu/a627ad36029e4355948bed31bb476ad5309059.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1人份",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    }
+  ],
+  [
+    {
+      "name": "米饭",
+      "month_sales": "月售3572",
+      "price": 2,
+      "picture": "http://p1.meituan.net/xianfu/3883cb102a9819932e62dec4dff0c3c4283947.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "好评度92%",
+      "unit": "1碗",
+      "spu_dna_value": "大米",
+      "product_label": ""
+    },
+    {
+      "name": "三黑元气饭",
+      "month_sales": "月售1030",
+      "price": 3,
+      "picture": "http://p0.meituan.net/xianfu/d5ac8f2f656b8836c44979237f83c0bf715564.png",
+      "recommend_reason": "门店销量第1名",
+      "like_ratio_desc": "好评度94%",
+      "unit": "1碗",
+      "spu_dna_value": "大米、黑米、玉米、燕麦、花生",
+      "product_label": ""
+    }
+  ],
+  [
+    {
+      "name": "卤鸡爪",
+      "month_sales": "月售139",
+      "price": 3.5,
+      "picture": "http://p0.meituan.net/xianfu/2847bbfad5feba56bcfbaf058307ea76290141.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1个",
+      "spu_dna_value": "微辣",
+      "product_label": ""
+    },
+    {
+      "name": "卤鸡腿",
+      "month_sales": "月售435",
+      "price": 6,
+      "picture": "http://p0.meituan.net/xianfu/b0d98cbe993fd83e1d47cb3c5ccf6fb2180578.jpg",
+      "recommend_reason": "“味道好,经常点他家的菜”",
+      "like_ratio_desc": "好评度95%",
+      "unit": "1个",
+      "spu_dna_value": "",
+      "product_label": ""
+    },
+    {
+      "name": "卤鸭胗",
+      "month_sales": "月售160",
+      "price": 3.5,
+      "picture": "http://p0.meituan.net/xianfu/853492b3bc1c9888ffe3eae776834a64291818.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "好评度100%",
+      "unit": "1个",
+      "spu_dna_value": "微辣",
+      "product_label": ""
+    },
+    {
+      "name": "卤肉肠",
+      "month_sales": "月售93",
+      "price": 5,
+      "picture": "http://p1.meituan.net/xianfu/b79292a0ba8f375d554ccd083f50792d282673.png",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1个",
+      "spu_dna_value": "微辣",
+      "product_label": ""
+    },
+    {
+      "name": "咸鸭蛋",
+      "month_sales": "月售234",
+      "price": 3,
+      "picture": "http://p1.meituan.net/xianfu/c6567e9de64bb511a439fdb93f255444312173.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "好评度89%",
+      "unit": "1个",
+      "spu_dna_value": "",
+      "product_label": ""
+    }
+  ],
+  [
+    {
+      "name": "摩登罐装可乐",
+      "month_sales": "月售36",
+      "price": 5,
+      "picture": "http://p0.meituan.net/xianfu/d323caa12440a5aa5fd4da1404592aeb236615.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1罐",
+      "spu_dna_value": "",
+      "product_label": ""
+    },
+    {
+      "name": "摩登罐装雪碧",
+      "month_sales": "月售28",
+      "price": 5,
+      "picture": "http://p0.meituan.net/xianfu/d4a880c1dc732f01a38e104c4cec29de253239.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1罐",
+      "spu_dna_value": "",
+      "product_label": ""
+    },
+    {
+      "name": "摩登罐装芬达",
+      "month_sales": "月售15",
+      "price": 5,
+      "picture": "http://p1.meituan.net/xianfu/d424473aecac011dd7f76f30345891b9232831.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1罐",
+      "spu_dna_value": "",
+      "product_label": ""
+    },
+    {
+      "name": "农夫山泉矿泉水（运动盖）",
+      "month_sales": "月售34",
+      "price": 4,
+      "picture": "http://p0.meituan.net/xianfu/ca90e1236f55fa9af65cf3d3044520e2192006.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1瓶",
+      "spu_dna_value": "",
+      "product_label": ""
+    },
+    {
+      "name": "伊利乳酸菌饮品（原味）",
+      "month_sales": "月售14",
+      "price": 8,
+      "picture": "http://p0.meituan.net/xianfu/b42a97de6a2a88fc0cb08823464bd6a4157936.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1瓶",
+      "spu_dna_value": "",
+      "product_label": ""
+    }
+  ],
+  [
+    {
+      "name": "肥西老母鸡汤（商品劵）",
+      "month_sales": "月售8",
+      "price": 16,
+      "picture": "http://p0.meituan.net/xianfu/0903ac98964166189beeb6bdfa8dcada516911.jpg",
+      "recommend_reason": "点评网友推荐",
+      "like_ratio_desc": "",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "梅菜扣肉（商品劵）",
+      "month_sales": "月售11",
+      "price": 17,
+      "picture": "http://p0.meituan.net/xianfu/b5c65df09dd8c6b64b65c89a95c5d99c678420.jpg",
+      "recommend_reason": "点评网友推荐",
+      "like_ratio_desc": "",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    }
+  ],
+  [
+    {
+      "name": "皮蛋瘦肉粥油条豆浆餐",
+      "month_sales": "月售0",
+      "price": 13,
+      "picture": "http://p1.meituan.net/xianfu/b980a630660f69bcabf29240d5113a29260170.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1人份",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "桂花赤豆元宵蒸饺油条餐",
+      "month_sales": "月售0",
+      "price": 14,
+      "picture": "http://p0.meituan.net/xianfu/16d488c4cab9b1956fded754f5a37771351036.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1人份",
+      "spu_dna_value": "甜味",
+      "product_label": ""
+    },
+    {
+      "name": "馄饨包子鸡蛋餐",
+      "month_sales": "月售11",
+      "price": 13,
+      "picture": "http://p1.meituan.net/xianfu/5000e2b1fdb276885e26bdf28e5d7ef1236409.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1人份",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "馄饨油条鸡蛋餐",
+      "month_sales": "月售24",
+      "price": 14,
+      "picture": "http://p0.meituan.net/xianfu/ec27a586ea4a3ee9741270d2c52ed349283522.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1人份",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "馄饨蒸饺鸡蛋餐",
+      "month_sales": "月售4",
+      "price": 15,
+      "picture": "http://p0.meituan.net/xianfu/45fe34e3817db00cf190e6b8f564f7f4230291.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1人份",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "油条豆浆烧麦餐",
+      "month_sales": "月售7",
+      "price": 15,
+      "picture": "http://p1.meituan.net/xianfu/af7ad786abe1aced344358fcbc5875c7312122.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1人份",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "馄饨蒸饺双人餐",
+      "month_sales": "月售6",
+      "price": 23,
+      "picture": "http://p1.meituan.net/xianfu/0e3b572ce00c93442a520992cd54b444286018.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "2人份",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "馄饨油条鸡蛋双人餐",
+      "month_sales": "月售5",
+      "price": 29,
+      "picture": "http://p0.meituan.net/xianfu/cf8aa6b4e851ab9b5c20559b741f3a47298315.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "2人份",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    }
+  ],
+  [
+    {
+      "name": "特色鸡汤馄饨",
+      "month_sales": "月售77",
+      "price": 9,
+      "picture": "http://p1.meituan.net/xianfu/eff5ccd08ed441504435755d0ae8de3c544053.jpg",
+      "recommend_reason": "点评网友推荐",
+      "like_ratio_desc": "",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "儿童鸡汤馄饨",
+      "month_sales": "月售44",
+      "price": 5,
+      "picture": "http://p0.meituan.net/xianfu/960de2181091c2c251f93143c13ad152456382.jpg",
+      "recommend_reason": "点评网友推荐",
+      "like_ratio_desc": "",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "现炸大油条",
+      "month_sales": "月售51",
+      "price": 3,
+      "picture": "http://p0.meituan.net/xianfu/3ec033ebbf9caa428ae0c92b954ad7c7188636.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1人份",
+      "spu_dna_value": "面粉",
+      "product_label": ""
+    }
+  ],
+  [
+    {
+      "name": "皮蛋瘦肉粥",
+      "month_sales": "月售0",
+      "price": 5,
+      "picture": "http://p1.meituan.net/xianfu/2ec82794f58a9cfa148819f5550ec752357642.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1碗",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "桂花赤豆元宵",
+      "month_sales": "月售0",
+      "price": 5,
+      "picture": "http://p0.meituan.net/xianfu/c826983a719307cc81d1c39a46752bc7209069.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1碗",
+      "spu_dna_value": "甜味",
+      "product_label": ""
+    },
+    {
+      "name": "鲜肉包",
+      "month_sales": "月售28",
+      "price": 3,
+      "picture": "http://p1.meituan.net/xianfu/6a0589eae19dddc557a5bbcc7f0704b2183720.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1个",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "香菇青菜包",
+      "month_sales": "月售34",
+      "price": 2.5,
+      "picture": "http://p0.meituan.net/xianfu/a804985e7ae1bc46bdb39c3497a4b61d127042.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1个",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "奶黄鸡包",
+      "month_sales": "月售21",
+      "price": 2,
+      "picture": "http://p0.meituan.net/xianfu/603b7e3a5b79762eff081f0eb03dcef0463503.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1个",
+      "spu_dna_value": "甜味",
+      "product_label": ""
+    },
+    {
+      "name": "烧麦（2个）",
+      "month_sales": "月售44",
+      "price": 4,
+      "picture": "http://p0.meituan.net/xianfu/431020e98c1bc9bf709472fe0579adbc391123.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "2个",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "茶叶蛋",
+      "month_sales": "月售48",
+      "price": 2.5,
+      "picture": "http://p0.meituan.net/xianfu/5e6c51485b356f2c8b6a2debaf5d6173411525.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1个",
+      "spu_dna_value": "",
+      "product_label": ""
+    },
+    {
+      "name": "玉米蔬菜猪肉蒸饺",
+      "month_sales": "月售51",
+      "price": 4,
+      "picture": "http://p0.meituan.net/xianfu/0ae94d7e7f7f6782c3a822d78882d683538686.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "4个",
+      "spu_dna_value": "咸鲜",
+      "product_label": ""
+    },
+    {
+      "name": "水煮蛋",
+      "month_sales": "月售26",
+      "price": 2,
+      "picture": "http://p1.meituan.net/xianfu/e8574305bc56861d3692b91ba121e008299567.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1个",
+      "spu_dna_value": "原味",
+      "product_label": ""
+    },
+    {
+      "name": "原味豆浆",
+      "month_sales": "月售47",
+      "price": 3,
+      "picture": "http://p0.meituan.net/xianfu/08f4f3e9358e10f29dbd82b038f2374b55663.jpg",
+      "recommend_reason": "我推荐这个菜，好吃！",
+      "like_ratio_desc": "",
+      "unit": "1杯",
+      "spu_dna_value": "黄豆、",
+      "product_label": ""
+    }
+  ]
+]
