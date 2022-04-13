@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="90dp"
+    android:padding="10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/iv_check_out_shopping_car_item_thumbnail"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:src="@drawable/product_detail"
+        android:scaleType="centerCrop"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"/>
+    <!--商品名称-->
+    <TextView
+        android:layout_marginStart="10dp"
+        app:layout_constraintTop_toTopOf="@id/iv_check_out_shopping_car_item_thumbnail"
+        app:layout_constraintStart_toEndOf="@+id/iv_check_out_shopping_car_item_thumbnail"
+        android:id="@+id/tv_check_out_shopping_car_item_product_name"
+        android:text="珍珠奶茶"
+        android:textColor="@color/black"
+        android:gravity="center_vertical"
+        android:layout_width="130dp"
+        android:layout_height="40dp"/>
+    <!-- 数量 -->
+    <TextView
+        app:layout_constraintStart_toStartOf="@+id/tv_check_out_shopping_car_item_product_name"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:id="@+id/tv_check_out_shopping_car_item_product_count"
+        android:text="x10"
+        android:gravity="center_vertical"
+        android:layout_width="200dp"
+        android:layout_height="30dp"/>
+    <!--总价格-->
+    <TextView
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:gravity="center"
+        android:id="@+id/tv_check_out_shopping_car_item_product_total_price"
+        android:text="￥20"
+        android:layout_width="100dp"
+        android:layout_height="20dp"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

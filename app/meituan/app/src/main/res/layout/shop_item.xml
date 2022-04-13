@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="130dp"
+    android:layout_marginStart="10dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginEnd="10dp"
+    app:cardCornerRadius="10dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/iv_thumbnail"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginBottom="20dp"
+            android:scaleType="centerCrop"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:shapeAppearanceOverlay="@style/roundedCornerStyle"
+            app:srcCompat="@drawable/shop_thumbnail"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/tv_shop_title"
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/text_marginStart_to_thumbnail"
+            android:layout_marginBottom="5dp"
+            android:text="快乐柠檬"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/tv_sales"
+            app:layout_constraintStart_toEndOf="@+id/iv_thumbnail"
+            app:layout_constraintTop_toTopOf="@+id/iv_thumbnail" />
+
+        <TextView
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:id="@+id/tv_sales"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/text_marginStart_to_thumbnail"
+            android:layout_marginBottom="3dp"
+            android:text="月售1023"
+            app:layout_constraintBottom_toTopOf="@+id/tv_delivery_condition"
+            app:layout_constraintStart_toEndOf="@+id/iv_thumbnail"
+            app:layout_constraintTop_toBottomOf="@+id/tv_shop_title" />
+
+        <TextView
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:id="@+id/tv_delivery_condition"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/text_marginStart_to_thumbnail"
+            android:layout_marginBottom="3dp"
+            android:text="起送￥20|配送￥5"
+            app:layout_constraintBottom_toTopOf="@+id/tv_regional_ranking"
+            app:layout_constraintStart_toEndOf="@+id/iv_thumbnail"
+            app:layout_constraintTop_toBottomOf="@+id/tv_sales" />
+
+        <TextView
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:id="@+id/tv_regional_ranking"
+            android:maxWidth="240dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/text_marginStart_to_thumbnail"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/tv_regional_ranking_style"
+            android:padding="3dp"
+            android:text="广州大街饮品回头率第5名"
+            android:textColor="@color/tv_regional_ranking_text_color"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/iv_thumbnail"
+            app:layout_constraintTop_toBottomOf="@+id/tv_delivery_condition" />
+
+        <TextView
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:id="@+id/tv_delivery_duration"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="配送约30分钟"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/gray"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/order_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.54"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar_order"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="visible"
+            app:title="@string/order_fragment_title">
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <TextView
+        android:background="@color/white"
+        android:id="@+id/tv_order_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="收货地址："
+        android:gravity="center_vertical"
+        android:textSize="16sp"
+        android:layout_marginTop="10dp"
+        android:paddingStart="10dp"
+        android:height="50dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/order_appbar"
+        tools:ignore="MissingConstraints,RtlSymmetry" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        tools:listitem="@layout/check_out_shopping_car_item"
+        app:layout_constraintTop_toBottomOf="@+id/tv_order_address"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:id="@+id/rcv_order_list"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"/>
+
+    <TextView
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rcv_order_list"
+        android:text="总价：￥100.0"
+        android:background="@color/white"
+        android:textSize="16sp"
+        android:gravity="center_vertical|end"
+        android:id="@+id/tv_order_subtotal"
+        android:layout_width="match_parent"
+        android:paddingEnd="20dp"
+        android:layout_height="40dp"/>
+
+    <TextView
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_order_subtotal"
+        android:text="配送费 ￥14"
+        android:background="@color/white"
+        android:textSize="16sp"
+        android:gravity="center_vertical|end"
+        android:id="@+id/tv_order_delivery_fee"
+        android:layout_width="match_parent"
+        android:paddingEnd="20dp"
+        android:textColor="@color/black"
+        android:layout_height="40dp"
+        tools:ignore="RtlSymmetry" />
+
+    <LinearLayout
+        android:background="@color/white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="120dp">
+        <TextView
+            android:id="@+id/tv_order_sum_price"
+            android:layout_weight="1"
+            android:text="订单总价：￥1000"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:paddingEnd="20dp"
+            android:gravity="center_vertical|end"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"/>
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_order_pay"
+            android:layout_weight="1"
+            android:layout_margin="8dp"
+            android:text="去支付"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"/>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

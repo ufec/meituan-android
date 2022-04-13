@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.textview.MaterialTextView
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:id="@+id/tv_shopping_car_item_product_name"
+        android:text="喝珍珠奶茶多是一件美事"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:maxWidth="140dp"
+        android:layout_marginStart="5dp" android:gravity="center"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+    <com.google.android.material.textview.MaterialTextView
+        app:layout_constraintTop_toTopOf="@+id/tv_shopping_car_item_product_name"
+        app:layout_constraintEnd_toStartOf="@+id/btn_shopping_car_item_inc_product"
+        android:id="@+id/tv_shopping_car_item_product_total_price"
+        android:layout_marginEnd="5dp"
+        android:maxLines="1"
+        android:maxWidth="60dp"
+        android:text="￥10000.04"
+        android:gravity="center"
+        android:textColor="@color/red"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+    <androidx.constraintlayout.utils.widget.ImageFilterButton
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/tv_shopping_car_item_product_count"
+        android:layout_marginEnd="5dp"
+        android:id="@+id/btn_shopping_car_item_inc_product"
+        android:background="@drawable/ic_dec"
+        android:layout_height="32dp"
+        android:layout_width="32dp"/>
+    <com.google.android.material.textview.MaterialTextView
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/btn_shopping_car_item_dec_product"
+        android:id="@+id/tv_shopping_car_item_product_count"
+        android:layout_marginEnd="5dp"
+        android:text="123666666ddddddd"
+        android:maxLines="1"
+        android:maxWidth="45dp"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+
+    <androidx.constraintlayout.utils.widget.ImageFilterButton
+        android:id="@+id/btn_shopping_car_item_dec_product"
+        android:layout_height="40dp"
+        android:layout_width="40dp"
+        android:src="@drawable/ic_inc"
+        android:backgroundTint="@color/transparent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
